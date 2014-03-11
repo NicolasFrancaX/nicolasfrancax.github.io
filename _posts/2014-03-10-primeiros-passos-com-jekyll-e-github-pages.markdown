@@ -35,7 +35,7 @@ No seu navegador, digite [0.0.0.0:4000/][1].
 
 [![Hello-World](/images/hello-world-jekyll.png)](/images/hello-world-jekyll.png)
 
-Agora você pode escrever suas postagens. Você só precisa entrar no diretório `_post` e usar a seguinte convenção: `ano-mês-dia-nome-do-post.markdown`. Quando for escrever sua postagem, se for leigo com markdown (assim como eu), veja postagens de outros usuários pelo Github afora.
+Agora você pode escrever suas postagens. Só precisa entrar no diretório `_post` e usar a seguinte convenção: `ano-mês-dia-nome-do-post.markdown`. Quando for escrever sua postagem, se for leigo com markdown (assim como eu), veja postagens de outros usuários pelo Github afora.
 
 Depois de tudo isso, vamos publicar seu blog pelo Github Pages.
 
