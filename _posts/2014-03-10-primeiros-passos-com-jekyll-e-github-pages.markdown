@@ -18,7 +18,7 @@ Agora vamos criar a estrutura do Jekyll.
 jekyll new seu_nick_do_github.github.io
 {% endhighlight  %}
 
-No meu caso específico, criei como nicolasfrancax.github.io. 
+No meu caso específico, criei como `nicolasfrancax.github.io`. 
 
 Depois disso, vamos ver a seguinte estrutura:
 
