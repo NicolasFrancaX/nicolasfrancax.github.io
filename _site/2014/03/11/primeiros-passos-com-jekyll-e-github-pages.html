@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Criando blog com Jekyll e Github Pages</title>
+        <meta name="viewport" content="width=device-width">
+
+        <!-- syntax highlighting CSS -->
+        <link rel="stylesheet" href="/css/syntax.css">
+
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="/css/main.css">
+
+    </head>
+    <body>
+
+        <div class="site">
+          <div class="header">
+            <h1 class="title"><a href="/">Nicolas França</a></h1>
+            <a class="extra" href="/">home</a>
+          </div>
+
+          <h2>Criando blog com Jekyll e Github Pages</h2>
+<p class="meta">11 Mar 2014</p>
+
+<div class="post">
+<p>Olá pessoal, tudo bem? Esse será meu primeiro post, e falarei como fiz pra configurar o Jekyll e usa-lo com Github Pages.</p>
+
+<p>Primeiro, vamos instalar o Jekyll na maquina. </p>
+
+<div class="highlight"><pre><code class="bash">gem install jekyll
+</code></pre></div>
+
+<p>Ok. Agora vamos criar a estrutura do Jekyll.</p>
+
+<div class="highlight"><pre><code class="bash">jekyll new seu_nick_do_github.github.io
+</code></pre></div>
+
+<p>No meu caso específico, criei como nicolasfrancax.github.io. </p>
+
+<p>Depois disso, vocês verão a seguinte estrutura:</p>
+
+<p><a href="/images/tree-jekyll.png"><img src="/images/tree-jekyll.png" alt="Tree"></a></p>
+
+<p>Agora, dentro da sua aplicação, use o seguinte comando.</p>
+
+<div class="highlight"><pre><code class="bash">jekyll serve -w
+</code></pre></div>
+
+<p>No seu navegador, digite <a href="http://0.0.0.0:4000/">0.0.0.0:4000/</a>.</p>
+
+<p><a href="/images/hello-world-jekyll.png"><img src="/images/hello-world-jekyll.png" alt="Hello-World"></a></p>
+
+<p>Agora você pode escrever suas postagens. Você só precisa entrar no diretório <code>_post</code> e usar a seguinte convenção: <code>ano-mês-dia-nome-do-post.markdown</code>. Quando for escrever sua postagem, se for leigo com markdown (assim como eu), veja postagens de outros usuários pelo github afora.</p>
+
+<p>Depois de tudo isso, vamos publicar seu blog pelo Github Pages.</p>
+
+<p>Para isso, vá ao github e crie um novo repositório <code>seu_nick_do_github.github.io</code>, entre no seu diretório do jekyll e faça:</p>
+
+<div class="highlight"><pre><code class="bash">git init
+git add *
+git commit -m <span class="s2">&quot;primeiro commit&quot;</span>
+git remote add origin git@github.com:seu_nick_do_github/seu_nick_do_github.github.io.git
+git push -u origin master
+</code></pre></div>
+
+<p>Pronto, você acabou de publicar seu blog no Github. Espere cerca de 10 minutos e entre no link <code>seu_nick_do_github.github.io</code> e irá acessar a página do seu blog.</p>
+
+<p>Antes de terminar, não se esqueça de adicionar algumas coisas importantes no seu blog, como por exemplo: RSS, comentários e claro, mude a sua página de apresentação ao seu gosto. :)</p>
+
+<p>É isso pessoal, até a próxima.</p>
+
+</div>
+
+
+          <div class="footer">
+            <div class="contact">
+              <p>
+                Nicolas França<br />
+                Apenas um cara chato e curioso...<br />
+                nicolasfranca9@gmail.com
+              </p>
+            </div>
+            <div class="contact">
+              <p>
+                <a href="https://github.com/NicolasFrancaX">github.com/NicolasFrancaX</a><br />
+                <a href="https://twitter.com/NicolasFrancaX">twitter.com/NicolasFrancaX</a><br />
+              </p>
+            </div>
+          </div>
+        </div>
+
+    </body>
+</html>
