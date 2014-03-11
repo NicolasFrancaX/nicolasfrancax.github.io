@@ -54,3 +54,5 @@ Pronto, você acabou de publicar seu blog no Github. Espere cerca de 10 minutos 
 Antes de terminar, não se esqueça de adicionar algumas coisas importantes no seu blog, como por exemplo: RSS, comentários e claro, mude a sua página de apresentação ao seu gosto. :)
 
 É isso pessoal, até a próxima.
+
+bla();
