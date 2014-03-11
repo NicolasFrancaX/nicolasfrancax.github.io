@@ -4,7 +4,7 @@ title: "Criando blog com Jekyll e Github Pages"
 date: 2014-03-11 17:39:10
 ---
 
-Olá pessoal, tudo bem? Esse será meu primeiro post, e falarei como fiz pra configurar o Jekyll e usa-lo com Github Pages.
+Olá pessoal, tudo bem? Esse será meu primeiro post. Será como fiz pra instalar e configurar o Jekyll e usa-lo com Github Pages.
 
 Primeiro, vamos instalar o Jekyll na maquina. 
 
@@ -12,7 +12,7 @@ Primeiro, vamos instalar o Jekyll na maquina.
 gem install jekyll
 {% endhighlight %}
 
-Ok. Agora vamos criar a estrutura do Jekyll.
+Agora vamos criar a estrutura do Jekyll.
 
 {% highlight bash %}
 jekyll new seu_nick_do_github.github.io
@@ -20,7 +20,7 @@ jekyll new seu_nick_do_github.github.io
 
 No meu caso específico, criei como nicolasfrancax.github.io. 
 
-Depois disso, vocês verão a seguinte estrutura:
+Depois disso, vamos ver a seguinte estrutura:
 
 [![Tree](/images/tree-jekyll.png)](/images/tree-jekyll.png)
 
@@ -35,11 +35,11 @@ No seu navegador, digite [0.0.0.0:4000/][1].
 
 [![Hello-World](/images/hello-world-jekyll.png)](/images/hello-world-jekyll.png)
 
-Agora você pode escrever suas postagens. Você só precisa entrar no diretório `_post` e usar a seguinte convenção: `ano-mês-dia-nome-do-post.markdown`. Quando for escrever sua postagem, se for leigo com markdown (assim como eu), veja postagens de outros usuários pelo github afora.
+Agora você pode escrever suas postagens. Você só precisa entrar no diretório `_post` e usar a seguinte convenção: `ano-mês-dia-nome-do-post.markdown`. Quando for escrever sua postagem, se for leigo com markdown (assim como eu), veja postagens de outros usuários pelo Github afora.
 
 Depois de tudo isso, vamos publicar seu blog pelo Github Pages.
 
-Para isso, vá ao github e crie um novo repositório `seu_nick_do_github.github.io`, entre no seu diretório do jekyll e faça:
+Para isso, vá ao Github e crie um novo repositório `seu_nick_do_github.github.io`, entre no seu diretório do Jekyll e faça:
 
 {% highlight bash %}
 git init
