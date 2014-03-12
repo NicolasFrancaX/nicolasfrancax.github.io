@@ -1,5 +1,5 @@
 nicolasfrancax.github.io
 ========================
 
-Blog[1]
-[1]: nicolasfrancax.github.com
+[Blog][1]
+[1]: http://nicolasfrancax.github.com
