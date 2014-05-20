@@ -81,12 +81,12 @@ Dessa maneira, eu consigo casar com todas as strings da maneira mais fácil poss
 
 `^[0-9]{2}[. ]?[0-9]{3}[-. ]?[0-9]{3}`
 
-Com o [0-9], eu posso casar qualquer número nesse intervalo de tempo. Usando o {n}, posso repetir aquele caractere n vezes.
+Com o [0-9], eu posso casar qualquer número nesse intervalo de tempo (de 0 a 9). Usando o {n}, posso repetir aquele caractere n vezes.
 
 Depois disso, eu substituo o [0-9] para \d, pois eles tem o mesmo efeito.
 
 `^\d{2}[. ]?\d{3}[-. ]?\d{3}`
 
-Pronto. Agora tenho uma regex que case com aquele modelo de CEP. 
+Pronto. Agora tenho uma regex que casa com aquele modelo de CEP. 
 
-Bom, é isso. Até o próximo post. :D
+Bom, é isso. Até o próximo post! :D
