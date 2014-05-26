@@ -67,7 +67,7 @@ Inválidos:
   this\ still\"not\\allowed@example.com
 ```
 
-Nessa primeira parte, vou resolver o primeiro exercício. Vou resolve-lô progressivamente, do modo que acho mais simples e depois vou refatorando.
+Essa primeira parte, vou resolver o primeiro exercício. Vou resolve-lô progressivamente, do modo que acho mais simples e depois vou refatorando.
 
 Para resolver o exercício, vou usar o Rubular. Coloco a string que eu gostaria de casar (match) em "Your test string:" e a minha regex em "Your regular expression:". Você verá os resultados de match em "Match result:".
 
