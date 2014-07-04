@@ -73,9 +73,9 @@ Para resolver o exercício, vou usar o Rubular. Coloco a string que eu gostaria 
 
 Primeiro exercício:
 
-Primeiro eu vou casando todas as strings de modo "roubado", assim: 
+Primeiro eu vou casando todas as strings de modo "roubado", assim:
 
-`^04[. ]?567[-. ]?003` 
+`^04[. ]?567[-. ]?003`
 
 Dessa maneira, eu consigo casar com todas as strings da maneira mais fácil possível. Mas como pode haver diferentes CEPs com esse mesmo modelo de string, eu vou colocar, no lugar dos números, um "[0-9]".
 
@@ -87,6 +87,9 @@ Depois disso, eu substituo o [0-9] para \d, pois eles tem o mesmo efeito.
 
 `^\d{2}[. ]?\d{3}[-. ]?\d{3}`
 
-Pronto. Agora tenho uma regex que casa com aquele modelo de CEP. 
+Pronto. Agora tenho uma regex que casa com aquele modelo de CEP.
 
 Bom, é isso. Até o próximo post! :D
+
+*Atualização em 04 de Julho de 2014:* Não vou continuar essas postagens
+por enquanto. Tenho algumas prioridades pra aprender agora. :(
