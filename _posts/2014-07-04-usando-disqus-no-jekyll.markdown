@@ -15,7 +15,7 @@ Primeiro, temos que entrar no [site do Disqus](https://disqus.com/) e
 criar uma conta. Provavelmente, você já tenha uma vinculada ao seu
 facebook/twitter/g+.
 
-Depois, você vai em [add Discus to your
+Depois, você vai em [add Disqus to your
 site](http://disqus.com/admin/create/). Coloque no formulário o nome do
 seu blog e o nome que você quer como user. Selecione a categoria e dê
 "Finish registration".
