@@ -6,12 +6,12 @@
 
 <p>Hoje vamos brincar um pouco com regex (Regular Expressions).</p>
 
-<p>Para isso, pedi a um dos meus senseis, o Plínio Balduino, pra me passar exercícios para brincar com regex. Ele me passou três.</p>
+<p>Para isso, pedi a um dos meus senseis, o <a href="https://twitter.com/p_balduino/">Plínio Balduino</a>, pra me passar exercícios para brincar com regex. Ele me passou três.</p>
 
 <p>Os exercícios foram os seguintes:</p>
 
 <p>Primeiro:</p>
-<div class="highlight"><pre><code class="text language-text" data-lang="text">Dada uma lista de CEPs válidos, escreva uma expressão regular que funcione com todos os itens:
+<div class="highlight"><pre><code class="language-text" data-lang="text">Dada uma lista de CEPs válidos, escreva uma expressão regular que funcione com todos os itens:
 
 04567003
 04567-003
@@ -22,13 +22,12 @@
 04567.003
 </code></pre></div>
 <p>Segundo:</p>
-<div class="highlight"><pre><code class="text language-text" data-lang="text">Dada uma lista de telefones válidos, escreva uma expressão regular que funciona com todos os itens:
+<div class="highlight"><pre><code class="language-text" data-lang="text">Dada uma lista de telefones válidos, escreva uma expressão regular que funciona com todos os itens:
 
 https://gist.github.com/NicolasFrancaX/11296532 (link com a lista de telefones)
 </code></pre></div>
 <p>Terceiro:</p>
-<div class="highlight"><pre><code class="text language-text" data-lang="text">Dadas duas listas de emails, uma com itens válidos e outra com inválidos, escreva uma expressão que 
-selecione TODOS os itens válidos e NENHUM item inválido ou qualquer uma de suas partes.
+<div class="highlight"><pre><code class="language-text" data-lang="text">Dadas duas listas de emails, uma com itens válidos e outra com inválidos, escreva uma expressão que selecione TODOS os itens válidos e NENHUM item inválido ou qualquer uma de suas partes.
 
 Válidos:
   niceandsimple@example.com
@@ -56,15 +55,15 @@ Inválidos:
   this is&quot;not\allowed@example.com
   this\ still\&quot;not\\allowed@example.com
 </code></pre></div>
-<p>Nessa primeira parte, vou resolver o primeiro exercício. Vou resolve-lô progressivamente, do modo que acho mais simples e depois vou refatorando.</p>
+<p>Essa primeira parte, vou resolver o primeiro exercício. Vou resolve-lô progressivamente, do modo que acho mais simples e depois vou refatorando.</p>
 
-<p>Para resolver o exercício, vou usar o Rubular. Coloco a string que eu gostaria de casar (match) em &quot;Your test string:&quot; e a minha regex em &quot;Your regular expression:&quot;. Você verá os resultados de match em &quot;Match result:&quot;.</p>
+<p>Para resolver o exercício, vou usar o <a href="http://rubular.com/">Rubular</a>. Coloco a string que eu gostaria de casar (match) em &quot;Your test string:&quot; e a minha regex em &quot;Your regular expression:&quot;. Você verá os resultados de match em &quot;Match result:&quot;.</p>
 
 <p>Primeiro exercício:</p>
 
-<p>Primeiro eu vou casando todas as strings de modo &quot;roubado&quot;, assim: </p>
+<p>Primeiro eu vou casando todas as strings de modo &quot;roubado&quot;, assim:</p>
 
-<p><code>^04[. ]?567[-. ]?003</code> </p>
+<p><code>^04[. ]?567[-. ]?003</code></p>
 
 <p>Dessa maneira, eu consigo casar com todas as strings da maneira mais fácil possível. Mas como pode haver diferentes CEPs com esse mesmo modelo de string, eu vou colocar, no lugar dos números, um &quot;[0-9]&quot;.</p>
 
@@ -76,9 +75,26 @@ Inválidos:
 
 <p><code>^\d{2}[. ]?\d{3}[-. ]?\d{3}</code></p>
 
-<p>Pronto. Agora tenho uma regex que casa com aquele modelo de CEP. </p>
+<p>Pronto. Agora tenho uma regex que casa com aquele modelo de CEP.</p>
 
 <p>Bom, é isso. Até o próximo post! :D</p>
 
+<p><em>Atualização em 04 de Julho de 2014:</em> Não vou continuar essas postagens
+por enquanto. Tenho algumas prioridades pra aprender agora. :(</p>
+
 </div>
-<div class="footer"><div class="contact"><p> Nicolas França<br/> Apenas um cara chato e curioso...<br/> nicolasfranca9@gmail.com </p></div><div class="contact"><p><a href="https://github.com/NicolasFrancaX">github.com/NicolasFrancaX</a><br/><a href="https://twitter.com/NicolasFrancaX">twitter.com/NicolasFrancaX</a><br/></p></div></div></div></body></html><link rel="stylesheet" href="/css/syntax.min.css"><link rel="stylesheet" href="/css/main.min.css">
+
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+  /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+  var disqus_shortname = 'nicolasfranca'; // required: replace example with your forum shortname
+
+  /* * * DON'T EDIT BELOW THIS LINE * * */
+  (function() {
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+  })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a><div class="footer"><div class="contact"><p> Nicolas França<br/> Apenas um cara chato e curioso...<br/> nicolasfranca9@gmail.com </p></div><div class="contact"><p><a href="https://github.com/NicolasFrancaX">github.com/NicolasFrancaX</a><br/><a href="https://twitter.com/NicolasFrancaX">twitter.com/NicolasFrancaX</a><br/></p></div></div></div></body></html><link rel="stylesheet" href="/css/syntax.min.css"><link rel="stylesheet" href="/css/main.min.css">

@@ -1,3 +1,5 @@
 name: Nicolas França 
 markdown: redcarpet
 pygments: true
+layout: default
+comments: true
