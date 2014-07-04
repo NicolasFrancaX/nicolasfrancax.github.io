@@ -8,7 +8,7 @@ Olá pessoal, demorei um pouco pra criar outro post, mas aqui estou. :D
 
 Hoje vamos brincar um pouco com regex (Regular Expressions).
 
-Para isso, pedi a um dos meus senseis, o Plínio Balduino, pra me passar exercícios para brincar com regex. Ele me passou três.
+Para isso, pedi a um dos meus senseis, o [Plínio Balduino](https://twitter.com/p_balduino/), pra me passar exercícios para brincar com regex. Ele me passou três.
 
 Os exercícios foram os seguintes:
 
@@ -37,8 +37,7 @@ https://gist.github.com/NicolasFrancaX/11296532 (link com a lista de telefones)
 Terceiro:
 
 ```
-Dadas duas listas de emails, uma com itens válidos e outra com inválidos, escreva uma expressão que 
-selecione TODOS os itens válidos e NENHUM item inválido ou qualquer uma de suas partes.
+Dadas duas listas de emails, uma com itens válidos e outra com inválidos, escreva uma expressão que selecione TODOS os itens válidos e NENHUM item inválido ou qualquer uma de suas partes.
 
 Válidos:
   niceandsimple@example.com
@@ -69,7 +68,7 @@ Inválidos:
 
 Essa primeira parte, vou resolver o primeiro exercício. Vou resolve-lô progressivamente, do modo que acho mais simples e depois vou refatorando.
 
-Para resolver o exercício, vou usar o Rubular. Coloco a string que eu gostaria de casar (match) em "Your test string:" e a minha regex em "Your regular expression:". Você verá os resultados de match em "Match result:".
+Para resolver o exercício, vou usar o [Rubular](http://rubular.com/). Coloco a string que eu gostaria de casar (match) em "Your test string:" e a minha regex em "Your regular expression:". Você verá os resultados de match em "Match result:".
 
 Primeiro exercício:
 
