@@ -23,12 +23,13 @@ Ele venho falar comigo isso, sugeri pra ele estudar Lógica de
 Programação pelo [livro da Casa do
 Código](http://www.casadocodigo.com.br/products/livro-programacao). Por 2 motivos:
 
-1º - O livro é bem interessante, e usa exercícios bem legais (dificeis).
+1º - *O livro é bem interessante, e usa exercícios bem legais (dificeis).*
 
-2º - O livro usa Javascript. Javascript é a melhor tecnologia que alguém
+2º - *O livro usa Javascript. Javascript é a melhor tecnologia que alguém
 que está procurando emprego em programação pode estudar hoje em dia.
 Simplesmente pelo número de possibilidades que ela oferece (Client-side,
-Server site - Node.js, Bancos de dados não relacionais - MongoDB e etc).
+Server site - Node.js, Bancos de dados não relacionais - MongoDB e
+etc).*
 
 Ele estudou o livro por aproximadamente 1 mês. Depois não sabia mais o
 que fazer. Dava dicas de outras coisas pra ele estudar. Mas, por
@@ -36,7 +37,7 @@ inúmeros motivos, ele ficava enrolando.
 
 Eu fiquei acordado por uma madrugada inteira tentando resolver o
 problema desse meu amigo. E ai, lembrei de um post que vi pela internet
-com o titulo ["Desafie seus
+com o titulo: ["Desafie seus
 Amigos"](http://papodehomem.com.br/desafie-seus-amigos/).
 
 Pensei em fazer ele apostar algum dinheiro ou algo de valor, mas ele não
