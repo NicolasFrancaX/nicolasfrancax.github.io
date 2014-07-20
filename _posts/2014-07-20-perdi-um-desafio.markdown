@@ -17,6 +17,14 @@ Infelizmente (ou felizmente), precisei fazer bastante coisas nessa
 semana do desafio, o que me impediu de fazer **todas** as tarefas que me
 comprometi.
 
+Isso me lembra uma música.
+
+Vencedor - Los Hermanos:
+
+<iframe width="420" height="315"
+src="//www.youtube.com/embed/9mXBTKKXCQU" frameborder="0"
+allowfullscreen></iframe>
+
 Mas até que a semana foi produtiva. Terminei o curso de HTML/CSS do
 Codecademy. Recomendo, pra quem não sabe **NADA** da tecnologia que quer
 estudar e quer ter algumas noções. Mas não recomendo que a pessoa use o
@@ -38,6 +46,9 @@ O desafio foi com o [Vinicius](http://viniciusbaptista.github.io/) ainda. Ótima
 dele. :P
 vingar do que estou fazendo com ele. :P
 
+Estou com um [livro de
+Ruby](http://www.casadocodigo.com.br/products/livro-ruby) pra ler aqui. Vou usar esse mesmo tipo de
+desafio pra me auto-obrigar a ler ele. A aposta vai ser mais alta. :P
 
 Enfim galera, é isso.
 Obrigado e abraços!
