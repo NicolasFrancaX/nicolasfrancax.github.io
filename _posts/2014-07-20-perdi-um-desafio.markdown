@@ -11,7 +11,8 @@ passado](http://nicolasfrancax.github.io/2014/07/10/como-estou-mentorando-meu-am
 Que iria estudar HTML/CSS pela [apostila de front-end da
 Caelum](https://www.caelum.com.br/apostila-html-css-javascript/) (até
 o capitulo 7) e pelo [curso de
-HTML/CSS](http://www.codecademy.com/pt/tracks/web) do [Codecademy].
+HTML/CSS](http://www.codecademy.com/pt/tracks/web) do
+[Codecademy](http://www.codecademy.com/).
 
 Infelizmente (ou felizmente), precisei fazer bastante coisas nessa
 semana do desafio, o que me impediu de fazer **todas** as tarefas que me
@@ -43,7 +44,6 @@ material de estudos).
 Conclusão: Perdi 100 reais. Hahahaha.
 
 O desafio foi com o [Vinicius](http://viniciusbaptista.github.io/) ainda. Ótima oportunidade pra ele se
-dele. :P
 vingar do que estou fazendo com ele. :P
 
 Estou com um [livro de
@@ -51,4 +51,5 @@ Ruby](http://www.casadocodigo.com.br/products/livro-ruby) pra ler aqui. Vou usar
 desafio pra me auto-obrigar a ler ele. A aposta vai ser mais alta. :P
 
 Enfim galera, é isso.
+
 Obrigado e abraços!
