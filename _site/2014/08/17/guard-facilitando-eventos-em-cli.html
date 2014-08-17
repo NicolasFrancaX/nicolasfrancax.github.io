@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>Usando Disqus no Jekyll</title>
+  <title>Guard - Facilitando eventos em CLI</title>
   <meta name="viewport" content="width=device-width">
 </head>
 <body>
@@ -13,39 +13,48 @@
         <a href="/">Nicolas França</a>
       </h1>
     </div>
-    <h2>Usando Disqus no Jekyll</h2>
-<p class="meta">04 Jul 2014</p>
+    <h2>Guard - Facilitando eventos em CLI</h2>
+<p class="meta">17 Aug 2014</p>
 
 <div class="post">
-<p>Olá galera, beleza?</p>
+<p>Olá galera, beleza? :}</p>
 
-<p>Vou fazer dois posts de uma vez aqui, aproveitando que estou fazendo
-algumas alterações nele. :)</p>
+<p>Então, tenho uma pequena dica pra quem usa Ruby. É uma gem que estou
+usando bastante agora que estou aprendendo TDD e tal. O nome dela é
+<a href="https://github.com/guard/guard">Guard</a>.</p>
 
-<p>Vamos aprender como vincular o Disqus no Jekyll.</p>
+<p>Essa gem é bem poderosa, e pra ser sincero, não sei usar todo poder dela
+ainda.</p>
 
-<p>Primeiro, temos que entrar no <a href="https://disqus.com/">site do Disqus</a> e
-criar uma conta. Provavelmente, você já tenha uma vinculada ao seu
-facebook/twitter/g+.</p>
+<p>Basicamente, ela automatiza tarefas que você normalmente teria que fazer
+na mão pelo terminal.</p>
 
-<p>Depois, você vai em <a href="http://disqus.com/admin/create/">add Disqus to your
-site</a>. Coloque no formulário o nome do
-seu blog e o nome que você quer como user. Selecione a categoria e dê
-&quot;Finish registration&quot;.</p>
+<p>Por exemplo: Se eu preciso digitar: <code>bundle exec rspec spec/</code>, sempre
+que eu escrever um novo test ou algum arquivo testado, eu posso
+automatizar isso configurando um arquivo chamado <code>Guardfile</code>.</p>
 
-<p>Vai aparecer uma tela com várias opções de tipos de serviços para blogs.
-Vai em &quot;Universal Code&quot;.</p>
+<p>Quando estava estudando TDD, fiz o seguinte <code>Guardfile</code>:</p>
 
-<p>Copie aquele código e cole no final do seu <em>_layouts/post.html</em>.</p>
+<p><script
+src="https://gist.github.com/NicolasFrancaX/51bed57118be70c1468e.js"></script></p>
 
-<p>Depois, vai no seu <em>_config.yml</em> e adicione o seguinte trecho:</p>
-<div class="highlight"><pre><code class="language-yaml" data-lang="yaml"><span class="l-Scalar-Plain">layout</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">default</span>
-<span class="l-Scalar-Plain">comments</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">true</span>
-</code></pre></div>
-<p>Depois disso, use <code>jekyll serve</code> pra testar na maquina local. Se tudo
-der certo, commite e desfrute. :)</p>
+<p>É bem simples. Esses <code>interactor :off</code> e <code>notification :off</code> servem pra
+não ficar disparando mensagens que não me interessam na execução do
+guard.</p>
 
-<p>É isso galera, até mais.</p>
+<p>O <code>guard :shell</code> usa um plugin do Guard (chamado
+<a href="https://github.com/guard/guard-shell">guard-shell</a>) e com
+a chamada do método <code>watch</code>, sempre que eu editar algum dos arquivos
+passados no parâmetro (que pode usar regex), ele vai disparar o evento
+<code>task</code>.</p>
+
+<p>Ai, pra diminuir o tamanho do comando do terminal, coloquei ele em um
+método.</p>
+
+<p>Depois disso, dou um <code>guard</code> no diretório e, sempre que eu editar algum
+dos arquivos passados no watch, ele vai disparar aquele evento.</p>
+
+<p>Bom, é isso galera! Abraços! :)</p>
 
 </div>
 
