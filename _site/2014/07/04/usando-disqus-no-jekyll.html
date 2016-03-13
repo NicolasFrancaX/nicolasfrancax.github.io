@@ -31,17 +31,19 @@ facebook/twitter/g+.</p>
 <p>Depois, você vai em <a href="http://disqus.com/admin/create/">add Disqus to your
 site</a>. Coloque no formulário o nome do
 seu blog e o nome que você quer como user. Selecione a categoria e dê
-&quot;Finish registration&quot;.</p>
+“Finish registration”.</p>
 
 <p>Vai aparecer uma tela com várias opções de tipos de serviços para blogs.
-Vai em &quot;Universal Code&quot;.</p>
+Vai em “Universal Code”.</p>
 
 <p>Copie aquele código e cole no final do seu <em>_layouts/post.html</em>.</p>
 
 <p>Depois, vai no seu <em>_config.yml</em> e adicione o seguinte trecho:</p>
-<div class="highlight"><pre><code class="language-yaml" data-lang="yaml"><span class="l-Scalar-Plain">layout</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">default</span>
-<span class="l-Scalar-Plain">comments</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">true</span>
-</code></pre></div>
+
+<pre><code class="language-yaml">layout: default
+comments: true
+</code></pre>
+
 <p>Depois disso, use <code>jekyll serve</code> pra testar na maquina local. Se tudo
 der certo, commite e desfrute. :)</p>
 
