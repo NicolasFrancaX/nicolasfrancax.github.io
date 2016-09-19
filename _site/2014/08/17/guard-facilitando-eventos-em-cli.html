@@ -29,28 +29,28 @@ ainda.</p>
 <p>Basicamente, ela automatiza tarefas que você normalmente teria que fazer
 na mão pelo terminal.</p>
 
-<p>Por exemplo: Se eu preciso digitar: <code>bundle exec rspec spec/</code>, sempre
+<p>Por exemplo: Se eu preciso digitar: <code class="highlighter-rouge">bundle exec rspec spec/</code>, sempre
 que eu escrever um novo test ou algum arquivo testado, eu posso
-automatizar isso configurando um arquivo chamado <code>Guardfile</code>.</p>
+automatizar isso configurando um arquivo chamado <code class="highlighter-rouge">Guardfile</code>.</p>
 
-<p>Quando estava estudando TDD, fiz o seguinte <code>Guardfile</code>:</p>
+<p>Quando estava estudando TDD, fiz o seguinte <code class="highlighter-rouge">Guardfile</code>:</p>
 
 <script src="https://gist.github.com/NicolasFrancaX/51bed57118be70c1468e.js"></script>
 
-<p>É bem simples. Esses <code>interactor :off</code> e <code>notification :off</code> servem pra
+<p>É bem simples. Esses <code class="highlighter-rouge">interactor :off</code> e <code class="highlighter-rouge">notification :off</code> servem pra
 não ficar disparando mensagens que não me interessam na execução do
 guard.</p>
 
-<p>O <code>guard :shell</code> usa um plugin do Guard (chamado
+<p>O <code class="highlighter-rouge">guard :shell</code> usa um plugin do Guard (chamado
 <a href="https://github.com/guard/guard-shell">guard-shell</a>) e com
-a chamada do método <code>watch</code>, sempre que eu editar algum dos arquivos
+a chamada do método <code class="highlighter-rouge">watch</code>, sempre que eu editar algum dos arquivos
 passados no parâmetro (que pode usar regex), ele vai disparar o evento
-<code>task</code>.</p>
+<code class="highlighter-rouge">task</code>.</p>
 
 <p>Ai, pra diminuir o tamanho do comando do terminal, coloquei ele em um
 método.</p>
 
-<p>Depois disso, dou um <code>guard</code> no diretório e, sempre que eu editar algum
+<p>Depois disso, dou um <code class="highlighter-rouge">guard</code> no diretório e, sempre que eu editar algum
 dos arquivos passados no watch, ele vai disparar aquele evento.</p>
 
 <p>Bom, é isso galera! Abraços! :)</p>

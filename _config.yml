@@ -1,5 +1,5 @@
 name: Nicolas França
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 layout: default
 comments: true
