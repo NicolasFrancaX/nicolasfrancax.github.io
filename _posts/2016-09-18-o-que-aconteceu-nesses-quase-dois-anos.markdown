@@ -108,14 +108,13 @@ Dentre elas:
 - O aprendizado da minha própria vida e como eu funciono;
 - Pensamentos aleatórios;
 - Matemática;
-- Elm; 
+- Elm;
 - Python;
 - Programação Funcional;
 - Algoritmos;
 - Machine Learning;
 - Estatística;
 - Maratona de programação;
-- dentre outros...
 
 Então é isso!
 
