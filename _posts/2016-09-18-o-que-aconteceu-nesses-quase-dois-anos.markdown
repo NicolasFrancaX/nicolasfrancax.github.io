@@ -4,9 +4,9 @@ title: "O que aconteceu nesses quase dois anos"
 date: 2016-09-18 21:40:00
 ---
 
-Bom, antes de mais nada queria agradecer ao Alexandre por aceitar o desafio de última hora (as 21:00 de hoje)nico. ) pra escrevermos até 00:00 um post, qualquer que seja.
+Bom, antes de mais nada queria agradecer ao [Alexandre](https://twitter.com/0x41e) por aceitar o desafio de última hora (as 21:00 de hoje) pra escrevermos até 00:00 um post, qualquer que seja.
 
-Eu escrevi algo para ser esse post no início desse ano, mas perdi o texto, então vou escrever algo. Esse post tem uma certa conexão com o post "Vou me tornar uma pessoa melhor em 2015" (<- coloca link aqui) do final de 2014, e também uma conexão entre o ano de 2015 e hoje (em setembro de 2016). 
+Eu escrevi algo para ser esse post no início desse ano, mas perdi o texto, então escrevi este. Esse post tem uma certa conexão com o post "[Vou me tornar uma pessoa melhor em 2015](http://nicolasfrancax.github.io/2014/12/26/vou-me-tornar-uma-pessoa-melhor-em-2015.html)" do final de 2014, e também uma conexão entre o ano de 2015 e hoje (em setembro de 2016). 
 
 Outra consideração a fazer: Esse post vai ser uma abertura de parte da minha vida, e até de pretensões minhas.
 
@@ -32,9 +32,9 @@ Bom, eu sai da mapaBRASIL aproximadamente em março de 2015, fiquei lá por 1 an
 
 Eu já estava estudando pouco a pouco para o vestibular desde o final de 2014, mas o meu pensamento era simplesmente focar apenas em estudar para o vestibular e conseguir logo esse sonho. Afinal, eu sonhava com isso desde 2011.
 
-Logo depois de sair, eu resolvi fazer uma loucura. Fui pra Floripa, por um programa chamado Worldpackers (<- Colocar link).
+Logo depois de sair, eu resolvi fazer uma loucura. Fui pra Floripa, por um programa chamado [Worldpackers](https://www.worldpackers.com).
 
-Nesse programa, eu basicamente tinha hospedagem e alimentação do hostel em troca de trocar serviços.
+Nesse programa, eu basicamente tinha hospedagem e alimentação do hostel em troca de serviços.
 
 Foi MUITO bacana, mesmo! 
 
@@ -44,11 +44,11 @@ Voltei pra São Paulo por que iria tentar um cursinho comunitário e também por
 
 Quando voltei, minha vida se resumiu a namoro/estudos pra vestibular. 
 
-Mas por conta de algums problemas, terminamos.
+Mas por conta de alguns problemas, terminamos.
 
 Eu fiquei **desolado**. Muito mal mesmo. Fiquei sem vontade de estudar e fazer outras coisas. Eu pensei até em **me matar**. Eis que em uma conversa com uma amiga (a Bianca), eu prometi:
 
-    *Eu vou fazer **tudo** o que estiver ao meu alcance para melhorar. Vou praticar exercícios físicos, estudar e tomar mais SOL. Não importa, vou fazer de tudo mesmo. Se em 6 meses eu não melhorar, eu me mato. Mas antes, vou fazer tudo o que for possível pra não chegar a esse ponto.*
+*Eu vou fazer **tudo** o que estiver ao meu alcance para melhorar. Vou praticar exercícios físicos, estudar e tomar mais Sol. Não importa, vou fazer de tudo mesmo. Se em 6 meses eu não melhorar, eu me mato. Mas antes, vou fazer tudo o que for possível pra não chegar a esse ponto.*
 
 Mas eu sempre fui **muito** procrastinador. Eu me prometo algo hoje e amanha eu tô com um foco totalmente diferente. Por isso, eu tive **Os dias do papel**.
 
@@ -62,7 +62,7 @@ E basicamente, depois disso, tivemos o ano novo. E fomos para:
 
 **2016**
 
-2016 ainda não acabou, e eu pretendo escrever muitos posts durante esse ano (mesmo que já estejamos quasen o final), mas basicamente, coisas importantes foram:
+2016 ainda não acabou, e eu pretendo escrever muitos posts durante esse ano (mesmo que já estejamos quase no final), mas basicamente as coisas mais importantes foram:
 
 - Meus resultados nos vestibulares;
 - Minha entrada na UFSCar;
@@ -74,7 +74,7 @@ Bom, durante os meses de janeiro ~ fevereiro, descobri que passei na Unicamp, US
 
 Na Unicamp, passei para o Cursão (Matemática, Física, Matemática aplicada, Engenharia Física, etc...). Na USP (São Carlos) passei para Estatística. Na UFSCar passei em Engenharia de computação.
 
-Quem me conhece de longa data, sabe que eu sempre sonhei com a Unicamp. Mas específicamente em Eng. de computação na Unicamp.
+Quem me conhece de longa data, sabe que eu sempre sonhei com a Unicamp. Mas específicamente em Eng. de computação.
 
 Mas não prestei pra Eng. de computação na Unicamp por certa sindrome de inferioridade. 
 
@@ -84,19 +84,21 @@ E entrei na UFSCar. E foi **muito** mágico a entrada. Conhecer São Carlos, pes
 
 Consegui as bolsas (moradia, alimentação e etc). Tudo em cima.
 
-O caso é. Eu senti como é difícil estar me uma universidade pública.
+O caso é. Eu senti como é difícil estar em uma universidade pública.
 
-Eu venho de escola pública. Não tive um bom ensino na escola (embora MUITOS professores salvaram). Eu basicamente me tornei "autodidata". Tanto pra estudar pro vestibular, tanto pra matemática/computação/afins... E estudando como "autodidata", eu sempre pegava um assunto X e estudava apenas ele por semanas. Normalmente, esse era meu método de estudos. Mas na UFSCar (e em qualquer curso/universidade) eu tinha 6 matérias, tendo que "rebolar" pra conseguir dar conta delas e das provas delas. Foi bem diferente do que eu esperava. E ainda por cima, eu ainda faltei em inúmeras aulas (normalmente, eu fui em pouquíssimas aulas) por esse achismo de "sou autodidata, consigo dar conta". Me salvei em muitas matérias, mas foi por **pouco**. E sei que se tivesse ido nas aulas, teria ido *muito* melhor.
+Eu venho de escola pública. Não tive um bom ensino na escola (embora MUITOS professores me salvaram). Eu basicamente me tornei "autodidata". Tanto pra estudar pro vestibular, tanto pra matemática/computação/afins... E estudando como "autodidata", eu sempre pegava um assunto X e estudava apenas ele por semanas. Normalmente, esse era meu método de estudos. Mas na UFSCar (e em qualquer curso/universidade) eu tinha 6 matérias, tendo que "rebolar" pra conseguir dar conta delas e das provas. Foi bem diferente do que eu esperava. E ainda por cima, eu ainda faltei em inúmeras aulas (normalmente, eu fui em pouquíssimas aulas) por esse achismo de "sou autodidata, consigo dar conta". Me salvei em muitas matérias, **mas foi por pouco**. E sei que se tivesse ido nas aulas, teria ido **muito** melhor.
 
-O caso é, durante esse meio tempo, e com a crise que tá batendo forte nas universidades federais (pela crise no Governo Federal desse ano), eu vi que não era *bem* a UFSCar que eu queria. E resolvi ter a loucura de estudar pra Unicamp de novo, e caso não passasse, iria voltar pra UFSCar e não pensar na Unicamp mais. E outra. Prestar *engenharia de computação* na Unicamp.
+O caso é, durante esse meio tempo, e com a crise que tá batendo forte nas universidades federais (pela crise no Governo Federal desse ano), eu vi que não era bem a UFSCar que eu queria. E resolvi ter a loucura de estudar pra Unicamp de novo, e caso não passasse, iria voltar pra UFSCar e não pensar na Unicamp mais. E outra. Prestar **engenharia de computação** na Unicamp.
 
-E pra isso, eu queria voltar pra casa (a.k.a, Carapicuíba). E sabia quer seria complicado voltar pra casa com as mãos abanando. Então resolvi começar a trabalhar.
+E pra isso, eu queria voltar pra casa (a.k.a, Carapicuíba). E sabia que seria complicado voltar pra casa com as mãos abanando. Então resolvi começar a trabalhar.
 
 E então, por inúmeros fatores, comecei na Geru.
 
-É meu segundo emprego, e estou trabalhando com *Python*, e estou *amando*. Principalmente o sentimento de resolver problemas do mundo real, aprender e ver o valor do que faço.
+É meu segundo emprego, e estou trabalhando com ***Python***, e estou *amando*. Principalmente o sentimento de resolver problemas do mundo real, aprender e ver o valor do que faço.
 
-E bom. Esse é meu hoje. Trabalhando na Geru e estudando para a Unicamp (tendo a UFSCar como alternativa caso não passe).
+E bom, esse é meu hoje. 
+
+Trabalhando na Geru e estudando para a Unicamp (tendo a UFSCar como alternativa caso não passe).
 
 Se eu não passar pra Unicamp, aos amigos que estão lendo: **podem me dar uns cascudos e *meter o loko* comigo**.
 
@@ -112,8 +114,9 @@ Dentre elas:
 - Algoritmos;
 - Machine Learning;
 - Estatística;
-- Maratona de programação; dentre outros...
+- Maratona de programação; 
+- dentre outros...
 
 Então é isso!
 
-Um abraço camaradas! Que tenhamos uma boa continuação de 2016.
+Um abraço camaradas! Que tenhamos uma boa continuação de 2016!
