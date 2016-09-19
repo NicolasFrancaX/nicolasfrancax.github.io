@@ -114,7 +114,7 @@ Dentre elas:
 - Algoritmos;
 - Machine Learning;
 - Estatística;
-- Maratona de programação; 
+- Maratona de programação;
 - dentre outros...
 
 Então é isso!
