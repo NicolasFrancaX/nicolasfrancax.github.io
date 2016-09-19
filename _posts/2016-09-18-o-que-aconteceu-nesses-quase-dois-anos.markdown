@@ -105,6 +105,7 @@ Se eu não passar pra Unicamp, aos amigos que estão lendo: **podem me dar uns c
 E quero voltar a escrever aqui. Tem inúmeras coisas me interessando.
 
 Dentre elas:
+
 - O aprendizado da minha própria vida e como eu funciono;
 - Pensamentos aleatórios;
 - Matemática;
