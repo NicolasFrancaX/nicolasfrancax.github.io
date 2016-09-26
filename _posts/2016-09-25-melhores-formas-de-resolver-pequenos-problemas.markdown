@@ -45,5 +45,9 @@ Muito bacana!
 
 Em uma hora e meia de conversa mais ou menos, o Alê e eu desenvolvemos esse humilde algoritmo o mais otimizado possível de acordo com nossos conhecimentos atuais.
 
+O bacana é perceber que podemos encontrar uma solução que resolva o nosso problema, mas que podem existir soluções melhores. E que podemos aprender sobre essas soluções estudando, discutindo, conversando, filosofando e tal. As possibilidades são multiplas.
+
+Uma conversa no twitter pode fazer uma grande diferença. Um texto lido. Uma tarde testando coisas novas. Varias possibilidades!
+
 É isso pessoal. Boa semana! :)
 
