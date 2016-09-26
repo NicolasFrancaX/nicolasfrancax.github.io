@@ -16,7 +16,7 @@ Temos o seguinte exercício:
 
 Sem muitas delongas, o código ficou basicamente assim:
 
-<script src="https://gist.github.com/NicolasFrancaX/fb858d1d25ab5c0760d3b8112943f994.js"></script>
+<script src="https://gist.github.com/NicolasFrancaX/5a7c33f39eeb4dfaa3282ab3b3e6f1ae.js"></script>
 
 Não vou explicar muito do código. Seja *n* o número testado, a lógica principal é: sair do loop como **false** se o número for divisível por *i*. Se *i* chegar a *n*, então n é **true**. **Problema resolvido**.
 
@@ -28,7 +28,7 @@ O interessante foi quando eu tive uma idéia muito simples pra melhorar o códig
 
 No final, o código ficou assim:
 
-<script src="https://gist.github.com/NicolasFrancaX/58ffa1a4e8631efba4983549b6628419.js"></script>
+<script src="https://gist.github.com/NicolasFrancaX/a22a85a47a2dc5b499394c1b57473da8.js"></script>
 
 Até ai, beleza. Mas o Alexandre deu uma luz. 
 
@@ -39,7 +39,7 @@ Usar a raiz quadrada ao nosso favor.
 Pra vocês terem noção do poder disso, vamos pegar o número *101*. Se tirarmos sua raiz quadrada, temos algo próximo de *10*. Como o nosso contator começa de *3*, então o nosso algoritmo vai percorrer: *3, 5, 7, 9, 10*. Se no nosso primeiro algoritmo iriamos percorrer algo em torno de *95* números e no segundo algo em torno de *43* números, nesse atual, percorremos *5*! É uma diferença *muito boa*. Aumentamos cerca de *20* vezes a otimização. 
 Temos:
 
-<script src="https://gist.github.com/NicolasFrancaX/665c6518339da85bad988aeb87a7626a.js"></script>
+<script src="https://gist.github.com/NicolasFrancaX/a44847398e93d46929a37906b39f95e9.js"></script>
 
 Muito bacana!
 
@@ -51,3 +51,4 @@ Uma conversa no twitter pode fazer uma grande diferença. Um texto lido. Uma tar
 
 É isso pessoal. Boa semana! :)
 
+PS.: Obrigado [Davi](https://twitter.com/dbarbosa) pelas sugestões. Tinha alguns erros nos meus algoritmos, e tu foi super bacana de ter dado um toque!
