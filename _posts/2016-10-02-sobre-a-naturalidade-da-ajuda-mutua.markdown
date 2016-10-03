@@ -34,7 +34,7 @@ Esse tipo de colaboração conjuta ajuda a entrarmos nesse estado. É aquele sen
 
 ---
 
-Depois de brincarmos com o Python e os problemas do Criptopals, colocamos nossas considerações sobre o Pair. Podem ser vistas no README do [repositório](https://github.com/functioners/cryptopals-python/blob/master/README.md).
+Depois de brincarmos com o Python e os problemas do criptopals, colocamos nossas considerações sobre o Pair. Podem ser vistas no README do [repositório](https://github.com/functioners/cryptopals-python/blob/master/README.md).
 
 Valeu [Alexandre](https://twitter.com/0x41e)!!!
 
