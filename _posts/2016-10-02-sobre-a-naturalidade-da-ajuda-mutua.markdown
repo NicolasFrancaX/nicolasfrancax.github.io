@@ -8,7 +8,7 @@ Olá pessoal, tudo bem?
 
 Ontém eu chamei o [Alexandre](https://twitter.com/0x41e) para fazermos um Pair Programming bem do nada. Era umas 19hrs da noite. 
 
-<img src="https://ayende.com/blog/Images/Windows-Live-Writer/Pair-Programming-at-Hibernating-Rhinos_BBD1/IMG_1815.jpg" width="300" height="200" style="center">
+<img src="https://ayende.com/blog/Images/Windows-Live-Writer/Pair-Programming-at-Hibernating-Rhinos_BBD1/IMG_1815.jpg" width="500" height="350" style="center">
 
 Codamos 2 problemas do [cryptopals](https://cryptopals.com/) em aproximadamente 2 horas, considerando o tempo de configuração do ambiente. O código pode ser visto [aqui](https://github.com/functioners/cryptopals-python).
 
@@ -37,5 +37,7 @@ Esse tipo de colaboração conjuta ajuda a entrarmos nesse estado. É aquele sen
 Depois de brincarmos com o Python e os problemas do Criptopals, colocamos nossas considerações sobre o Pair. Podem ser vistas no README do [repositório](https://github.com/functioners/cryptopals-python/blob/master/README.md).
 
 Valeu [Alexandre](https://twitter.com/0x41e)!!!
+
+---
 
 Pessoal, é isso! Incentivem a colaboração! Principalmente uma colaboração o mais natural possível. :)
