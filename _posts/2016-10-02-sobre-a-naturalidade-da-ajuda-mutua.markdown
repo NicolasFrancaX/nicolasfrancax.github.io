@@ -20,20 +20,22 @@ Foi bacana a naturalidade em que eu chamei o Alexandre e começamos a codar junt
 
 É interessante esse tipo de ambiente colaborativo. Nós dois aprendemos durante o processo. E o mais interessante: a **motivação** que isso proporciona.
 
-Afinal, é muito comum nos dias de hoje estarmos interessados em algum assunto específico e não começarmos ele porque é muito difícil, ou por simples procrastinação. O interessante é que, quando você faz isso com um amigo, o ambiente em torno daquela tarefa fica mais leve e divertida.
+Afinal, é muito comum nos dias de hoje estarmos interessados em algum assunto específico e não começarmos ele porque é muito difícil, ou por simples procrastinação. O interessante é que, quando você faz isso com um amigo, o ambiente em torno daquela tarefa fica mais leve e divertido.
 
 Essa leveza nos traz mais facilmente ao **flow**.
 
 <img src="http://4.bp.blogspot.com/-uKXCe9UmIL4/UnnTvXcmO1I/AAAAAAAAGH0/pMmVcXNXsy4/s1600/dark+woods+pro+good.png" width="500" height="320">
 
-O **flor** pode ser melhor explicado [nesse link](http://waitbutwhy.com/2013/11/how-to-beat-procrastination.html), mas basicamente é quando estamos tão imersos em determinada tarefa, que simplesmente não nos damos conta.
+O **flow** pode ser melhor explicado [nesse link](http://waitbutwhy.com/2013/11/how-to-beat-procrastination.html), mas basicamente é quando estamos tão imersos em determinada tarefa, que simplesmente não nos damos conta de outras coisas ao nosso redor.
 
 <img src="http://4.bp.blogspot.com/-TThDi_Enbb0/UnnTwYTi-OI/AAAAAAAAGIQ/P-AHDDevCYA/s1600/flow.png" width="500" height="320">
 
-Esse tipo de colaboração conjuta trás isso. É aquele sentimento de fazer determinada tarefa por pura diversão, sem outras pretensões. Como quando começamos uma banda de rock com os amigos.
+Esse tipo de colaboração conjuta ajuda a entrarmos nesse estado. É aquele sentimento de fazer determinada tarefa por pura diversão, sem outras pretensões, apenas pelo momento. Parecido com quando começamos uma banda de rock com os amigos e tocamos juntos simplesmente por tocar.
 
-Depois de brincarmos com o Python e os problemas de Cryptopals, colocamos nossas considerações sobre o Pair. Podem ser visto no README do repositório.
+---
+
+Depois de brincarmos com o Python e os problemas do Criptopals, colocamos nossas considerações sobre o Pair. Podem ser vistas no README do [repositório](https://github.com/functioners/cryptopals-python/blob/master/README.md).
 
 Valeu [Alexandre](https://twitter.com/0x41e)!!!
 
-Pessoal, é isso! Incentivem a colaboração. Principalmente uma colaboração o mais natural possível. :)
+Pessoal, é isso! Incentivem a colaboração! Principalmente uma colaboração o mais natural possível. :)
