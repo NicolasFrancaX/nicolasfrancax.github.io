@@ -56,4 +56,6 @@ Bom, depois disso foi a partida. :\
 
 Foi um dos meus melhores finais de semana! Espero voltar pra lá logo.
 
+Todas as fotos da viagem [aqui](https://drive.google.com/drive/folders/0B0nTVlyyAmJFaXc5bGZCS3F5ZWs)
+
 Valeu pela paciência. :)
