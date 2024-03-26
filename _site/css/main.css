@@ -208,3 +208,68 @@ blockquote {
   padding: 16px;
   text-decoration: none;
 }
+
+h1, h2, h3, .description {
+	clear: both;
+	margin-top: 0em;
+	margin-bottom: 0em;
+}
+
+h1 {
+	font-size: 2em;
+	padding-bottom: 0.5em;
+}
+
+h2 {
+	font-size: 1.5em;
+	padding-top: 1em;
+	margin-bottom: 0.5em;
+}
+
+h3 {
+	font-size: 1.25em;
+	font-style: italic;
+	margin-bottom: 0.5em; 
+}
+
+.school {
+	margin-bottom: 1em;
+}
+
+.school h3 {
+	margin-bottom: 0em;
+}
+
+
+.position, .left, .description {
+	width: 77%;
+	float: left;
+}
+
+.right {
+	width: 20%;
+	float: right;
+}
+
+.position, .right {
+	font-weight: bold;
+}
+
+.description, .school .left {
+	border-bottom: 1px solid #ccc;
+}
+
+.description {
+	text-align: justify;
+	line-height: 1.45em;
+}
+
+.school {
+	float: left;
+	width: 100%;
+}
+
+.line {
+	width: 100%;
+	clear: both;
+}
