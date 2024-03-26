@@ -181,3 +181,15 @@ blockquote {
 .post img {
   max-width: 100%;
 }
+
+
+/* Topo site */
+.menu-desktop {
+  padding: 0;
+  margin: 0;
+}
+
+.menu-desktop li {
+  font-size: 100%;
+  display: list-item;
+}
