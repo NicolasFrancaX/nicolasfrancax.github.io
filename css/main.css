@@ -189,7 +189,15 @@ blockquote {
   margin: 0;
 }
 
+.menu-desktop ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
 .menu-desktop li {
+  float: left;
   font-size: 100%;
   display: list-item;
 }
