@@ -273,3 +273,58 @@ h3 {
 	width: 100%;
 	clear: both;
 }
+
+.contato {
+
+    display: flex;
+
+    margin-top: 4rem;
+    flex-direction: column;
+    margin: 20px;
+    text-align: center;
+}
+
+/* ------------- Inicio do form de contato ------------- */
+.contato h1 {
+    margin: 0 auto;
+}
+
+.contato form {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+.contato input:focus,
+textarea:focus {
+    outline: none;
+}
+
+
+.contato label {
+    display: flex;
+    justify-content: start;
+    margin: .8rem 0 .4rem 0;
+}
+
+.contato input {
+    width: 20rem;
+    height: 2rem;
+    font-size: .9rem;
+    padding-left: .8rem;
+}
+
+.contato textarea {
+    resize: none;
+    padding: .5rem;
+    width: 20rem;
+    height: 12rem;
+    font-size: 1.2rem;
+}
+
+.contato button {
+    cursor: pointer;
+    margin-top: 1rem;
+    width: 20rem;
+    height: 2.5rem;
+}
